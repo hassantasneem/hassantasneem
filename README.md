@@ -4,11 +4,12 @@
 🛠️ Comfortable with Roblox Lua  
 📚 Currently building: A digit recognizer using CNN  
 
-## 🧰 Languages & Tools
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![Lua](https://img.shields.io/badge/-Lua-blue?style=flat&logo=lua)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow)
-![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visual-studio-code)
+### 🧰 Languages and Tools
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Lua" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+<img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="VSCode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<br>
 
 
 ## 📈 GitHub Stats
