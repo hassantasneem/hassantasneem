@@ -2,7 +2,7 @@
 
 🎓 Currently exploring AI through Python & TensorFlow  
 🛠️ Comfortable with Roblox Lua  
-📚 Currently building: A digit recognizer using CNN  
+
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
